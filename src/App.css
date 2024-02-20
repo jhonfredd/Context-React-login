@@ -1,0 +1,16 @@
+.dark-theme {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .light-theme {
+    background-color: #fff;
+    color: #343a40;
+  }
+  
+  .toggle-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+  }
+  
